@@ -81,3 +81,4 @@ class AddNoteFragment : Fragment(R.layout.fragment_add_note), MenuProvider {
         addNoteBinding = null
     }
 }
+//Hell0
